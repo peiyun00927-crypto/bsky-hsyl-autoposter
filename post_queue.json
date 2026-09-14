@@ -1,0 +1,72 @@
+[
+  {
+    "category": "compliance_haccp",
+    "url": "https://www.hsylkitchen.com/hygiene-haccp/hot-holding-temperature-guide.html",
+    "hook": "Are your food warmers compliant with HACCP standards?",
+    "insight": "Compare holding temp limits across US & UK standards, and properly configure holding cabinets for banquet transport.",
+    "tags": ["#HACCP", "#CommercialKitchen", "#FoodSafety"]
+  },
+  {
+    "category": "equipment_selection",
+    "url": "https://www.hsylkitchen.com/equipment-selection/steam-vs-electric-heated-dishwasher.html",
+    "hook": "Steam-heated vs electric dishwashers: Which cuts utility costs?",
+    "insight": "Compare boiler capacity, heat exchange efficiency, and operational costs for high-volume warewashing.",
+    "tags": ["#Warewashing", "#CommercialKitchen", "#KitchenDesign"]
+  },
+  {
+    "category": "materials_fabrication",
+    "url": "https://www.hsylkitchen.com/materials-fabrication/304-vs-316-stainless-steel-for-commercial-kitchens.html",
+    "hook": "Kitchen fabrication specs: 304 vs 316 stainless steel?",
+    "insight": "Analyze corrosion resistance, chloride limits, and welding standards for heavy-duty sinks and prep tables.",
+    "tags": ["#StainlessSteel", "#KitchenFabrication", "#FoodService"]
+  },
+  {
+    "category": "capacity_sizing",
+    "url": "https://www.hsylkitchen.com/capacity-sizing/capacity-sizing-steamer-cabinet-capacity-pans-per-meal.html",
+    "hook": "How do you size steamer cabinets for peak canteen rush hours?",
+    "insight": "Calculate GN-pan loads per meal service, steam recovery cycles, and throughput for dining halls.",
+    "tags": ["#CentralKitchen", "#CanteenDesign", "#CommercialKitchen"]
+  },
+  {
+    "category": "turnkey_solutions",
+    "url": "https://www.hsylkitchen.com/central-kitchen/",
+    "hook": "Designing a turnkey central kitchen with strict hygiene zoning?",
+    "insight": "From receiving to cook-chill dispatch, explore turnkey production layouts and hygiene separation.",
+    "tags": ["#CentralKitchen", "#FoodProcessing", "#TurnkeyProject"]
+  },
+  {
+    "category": "dishwashing_systems",
+    "url": "https://www.hsylkitchen.com/dishwashing-equipment/commercial-conveyor-dishwashers-for-high-volume-warewashing.html",
+    "hook": "Need to wash thousands of dishes per hour during peak shifts?",
+    "insight": "Conveyor dishwashers engineered for high throughput, sanitizing rinse cycles, and heat recovery.",
+    "tags": ["#CommercialDishwasher", "#Warewashing", "#HotelKitchen"]
+  },
+  {
+    "category": "cooking_systems",
+    "url": "https://www.hsylkitchen.com/cooking-equipment/tilting-braising-pans-for-batch-cooking.html",
+    "hook": "Why do commercial kitchens rely on tilting braising pans?",
+    "insight": "Simmer, braise, boil, and shallow fry in one heavy-duty unit with precise digital temperature control.",
+    "tags": ["#CommercialCooking", "#BulkCooking", "#CommercialKitchen"]
+  },
+  {
+    "category": "workflow_design",
+    "url": "https://www.hsylkitchen.com/workflow-design/canteen-serving-line-design-gn-modules-flow.html",
+    "hook": "How do you prevent bottlenecks in institutional dining halls?",
+    "insight": "Modular hot, cold, and neutral serving lines configured around peak service waves and GN tray dimensions.",
+    "tags": ["#CanteenDesign", "#ServingLine", "#FoodService"]
+  },
+  {
+    "category": "refrigeration",
+    "url": "https://www.hsylkitchen.com/capacity-sizing/blast-chiller-sizing-calculate-the-concurrent-food-load.html",
+    "hook": "Cook-chill safety: Sizing blast chillers for peak food loads.",
+    "insight": "Calculate concurrent batch loads and follow HACCP-compliant chilling curves to preserve food quality.",
+    "tags": ["#BlastChiller", "#CookChill", "#FoodSafety"]
+  },
+  {
+    "category": "compliance_standards",
+    "url": "https://www.hsylkitchen.com/compliance-standards/commercial-kitchen-equipment-fat-checklist.html",
+    "hook": "How to execute an equipment Factory Acceptance Test (FAT)?",
+    "insight": "Verify electrical safety, welding quality, functional performance, and documentation before shipment.",
+    "tags": ["#QualityControl", "#FATTesting", "#KitchenEquipment"]
+  }
+]
