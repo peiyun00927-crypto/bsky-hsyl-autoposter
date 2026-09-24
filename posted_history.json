@@ -68,5 +68,12 @@
     "title": "Commercial Kitchen Equipment FAT Checklist",
     "category": "compliance_standards",
     "posted_at": "2026-09-23T07:04:48.456945+00:00"
+  },
+  "https://www.hsylkitchen.com/": {
+    "post_uri": "at://did:plc:vhavpuokynvl2jyjs5orw2px/app.bsky.feed.post/3mwaonabrtw2x",
+    "cid": "bafyreifsdd4dewgmzmc3j4act2hn2vlzxfjl7yq2dt7ip4vsolaz4a44em",
+    "title": "Commercial Kitchen Equipment Manufacturer",
+    "category": "sitemap_discovery",
+    "posted_at": "2026-09-24T07:00:07.424884+00:00"
   }
 }
