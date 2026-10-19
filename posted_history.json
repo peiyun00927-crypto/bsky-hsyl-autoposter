@@ -166,5 +166,12 @@
     "title": "Service & Support",
     "category": "sitemap_discovery",
     "posted_at": "2026-10-18T06:50:34.443307+00:00"
+  },
+  "https://www.hsylkitchen.com/food-preparation-equipment/": {
+    "post_uri": "at://did:plc:vhavpuokynvl2jyjs5orw2px/app.bsky.feed.post/3my7ktqgdtz2v",
+    "cid": "bafyreihm4h6kswrtllqpkzkzpeqqkuwt7wpdymywsgddubrctm36iltvhu",
+    "title": "Food Preparation Equipment Manufacturer",
+    "category": "sitemap_discovery",
+    "posted_at": "2026-10-19T07:09:54.842273+00:00"
   }
 }
