@@ -187,5 +187,12 @@
     "title": "Commercial Kitchen Services & Project Support",
     "category": "sitemap_discovery",
     "posted_at": "2026-10-21T06:51:14.135626+00:00"
+  },
+  "https://www.hsylkitchen.com/technical-guides/": {
+    "post_uri": "at://did:plc:vhavpuokynvl2jyjs5orw2px/app.bsky.feed.post/3myh3ey4n3r2j",
+    "cid": "bafyreido2v3kzqq4vv5esvnksge5sgiaypiljap6auzxgeovszszexthfy",
+    "title": "Technical Guides & Engineering Articles",
+    "category": "sitemap_discovery",
+    "posted_at": "2026-10-22T06:54:30.780614+00:00"
   }
 }
