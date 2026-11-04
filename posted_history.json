@@ -264,5 +264,12 @@
     "title": "Restaurant Kitchen Equipment Solution",
     "category": "sitemap_discovery",
     "posted_at": "2026-11-03T08:53:01.075199+00:00"
+  },
+  "https://www.hsylkitchen.com/downloads-catalogs/": {
+    "post_uri": "at://did:plc:vhavpuokynvl2jyjs5orw2px/app.bsky.feed.post/3mzhweypdvt2m",
+    "cid": "bafyreichnla7377n4ilezuwbjenhc24wjvpry2wgnudq4jadqtdoz4yo4m",
+    "title": "Downloads & Technical Library",
+    "category": "sitemap_discovery",
+    "posted_at": "2026-11-04T08:22:54.028016+00:00"
   }
 }
