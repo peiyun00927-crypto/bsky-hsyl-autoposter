@@ -271,5 +271,12 @@
     "title": "Downloads & Technical Library",
     "category": "sitemap_discovery",
     "posted_at": "2026-11-04T08:22:54.028016+00:00"
+  },
+  "https://www.hsylkitchen.com/compliance-standards/": {
+    "post_uri": "at://did:plc:vhavpuokynvl2jyjs5orw2px/app.bsky.feed.post/3mzkidihmxt2m",
+    "cid": "bafyreifnrkquzhh6t5kc55ht524uo2v3n73444gvbch4e7dw3yny5owmhe",
+    "title": "FAT & Compliance Guides",
+    "category": "sitemap_discovery",
+    "posted_at": "2026-11-05T08:49:30.277846+00:00"
   }
 }
