@@ -292,5 +292,12 @@
     "title": "Manuals & Documentation",
     "category": "sitemap_discovery",
     "posted_at": "2026-11-07T08:05:34.995842+00:00"
+  },
+  "https://www.hsylkitchen.com/installation-maintenance/": {
+    "post_uri": "at://did:plc:vhavpuokynvl2jyjs5orw2px/app.bsky.feed.post/3mzzko7y3ke2o",
+    "cid": "bafyreicxiiaeekylft3hv5xlaf2k4zh3y2ccvemj4by2e7hn32wydotkki",
+    "title": "Kitchen Installation, Training & After-Sales Support",
+    "category": "sitemap_discovery",
+    "posted_at": "2026-11-11T08:41:14.040840+00:00"
   }
 }
