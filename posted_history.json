@@ -306,5 +306,12 @@
     "title": "Spare Parts & FAQ",
     "category": "sitemap_discovery",
     "posted_at": "2026-11-12T09:02:13.525110+00:00"
+  },
+  "https://www.hsylkitchen.com/central-kitchen-planning/": {
+    "post_uri": "at://did:plc:vhavpuokynvl2jyjs5orw2px/app.bsky.feed.post/3n2b33er4mf22",
+    "cid": "bafyreifue7bugg5v5jhmcdjm27ni5nrcar5ndkzgzfihqrpafuw7vykpeq",
+    "title": "Central Kitchen Planning Guides",
+    "category": "sitemap_discovery",
+    "posted_at": "2026-11-14T08:23:33.288704+00:00"
   }
 }
