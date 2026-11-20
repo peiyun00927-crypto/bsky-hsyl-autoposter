@@ -341,5 +341,12 @@
     "title": "Utilities & Ventilation Guides",
     "category": "sitemap_discovery",
     "posted_at": "2026-11-18T09:33:31.351474+00:00"
+  },
+  "https://www.hsylkitchen.com/hygiene-haccp/": {
+    "post_uri": "at://did:plc:vhavpuokynvl2jyjs5orw2px/app.bsky.feed.post/3n2qblhrbfw22",
+    "cid": "bafyreibvobdrz36wguoiudqnvwrvlbu3e7zuz4ejstfj5no7yrv6stguqe",
+    "title": "Hygiene & HACCP Guides",
+    "category": "sitemap_discovery",
+    "posted_at": "2026-11-20T09:29:51.838312+00:00"
   }
 }
